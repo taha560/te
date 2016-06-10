@@ -260,13 +260,13 @@ function create_config( )
     "webshot",
     "voice",
     },
-    sudo_users = {179071599},--Sudo users
+    sudo_users = {189308877},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
     help_text = [[ ]],
 	help_text_super =[[
-🚀 Avira SuperGroup Commands:
+🚀 king SuperGroup Commands:
 
 !owner
 دریافت آیدی مدیر اصلی گروه
